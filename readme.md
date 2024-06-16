@@ -1,7 +1,7 @@
 
 
 
-<main style="display:flex;flex-direction:column;border:1px solid white;width:100%;height:auto;padding:20px;border-radius:10px;box-shadow:0px 0px 10px white">
+
 <img style="border-bottom:3px solid #ff814b;margin-bottom:20px;" src="./assets/erik.png" alt="">
 
 <p style="font-family:'Tahoma',sans-serif;font-size:12px;text-align:center;border-bottom:2px solid #ff814b;height:30px;color:a5a5a5">| WEB DEVELOPER |  TECHNICIAN NETWORK IT | </p>
@@ -152,4 +152,3 @@
 </div>
 
 
-</main>
