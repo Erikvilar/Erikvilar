@@ -64,9 +64,12 @@
  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-<div style="border: 3px solid #ff814b; height:auto;padding:10px;border-radius:20px;width:300px;margin:auto">
-<img style="margin-bottom:10px" src="https://github-readme-stats.vercel.app/api?username=Erikvilar&theme=slateorange&show_icons=true&border_color=0000">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erikvilar&layout=donut&theme=slateorange&border_color=0000">
+
+<div style="border: 3px solid #ff814b;width:300px">
+
+![stats](https://github-readme-stats.vercel.app/api?username=Erikvilar&theme=slateorange&show_icons=true&border_color=0000)
+![donut](https://github-readme-stats.vercel.app/api/top-langs/?username=Erikvilar&layout=donut&theme=slateorange&border_color=0000)
+
 </div>
 
 
