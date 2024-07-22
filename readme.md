@@ -12,7 +12,7 @@
 * In Graduation: Technology Systems of Internet
 
 * Brazil/MG
-* Working at UFU University Unity Embrapii.
+* Working at UFU University LTAD.
 <p style="text-align:center">___________________________________________________</p>
 
 
