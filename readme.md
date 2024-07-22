@@ -6,7 +6,7 @@
 
 <p style="font-family:'Tahoma',sans-serif;font-size:12px;text-align:center;border-bottom:2px solid #ff814b;height:30px;color:a5a5a5">| WEB DEVELOPER |  TECHNICIAN NETWORK IT | </p>
 
-### Atual Stats:
+### Atual stats:
 * Currently i'm developing in my own projects, focused on front end design and consuming API's.
 
 * In Graduation: Technology Systems of Internet
