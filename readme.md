@@ -12,7 +12,7 @@
 * In Graduation: Technology Systems of Internet
 
 * Brazil/MG
-* OpenToWork
+* Working at UFU University Unity Embrapii.
 <p style="text-align:center">___________________________________________________</p>
 
 
