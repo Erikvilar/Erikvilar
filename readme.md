@@ -8,7 +8,6 @@
 
 ### Atual stats:
 * Currently i'm developing in my own projects, focused on front end design and consuming API's.
-
 * In Graduation: Technology Systems of Internet
 
 * Brazil/MG
@@ -18,6 +17,7 @@
 
 <p style="font-family:'Roboto',sans-serif">🌐 Find me : </p>
 
+--- Working on DATAFLUX WEB PROJECT ----
 
 
 
