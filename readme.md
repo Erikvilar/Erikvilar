@@ -9,7 +9,6 @@
   <img src="./assets/erik.png" alt="Banner do Perfil de Erik Vilar">
 </p>
 
-<h1 align="center">Olá, eu sou Erik Vilar</h1>
 <h3 align="center">Desenvolvedor & Analista de Sistemas | Java | Spring | Angular | Web Designer</h3>
 
 <p align="center">
