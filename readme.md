@@ -2,7 +2,7 @@
 
 **Analista de Sistemas** especializado em **Desenvolvimento Mobile**.
 
-Tenho dedicado minha trajetória recente à construção de interfaces móveis e arquiteturas de software no ecossistema **React Native** e **iOS**. Busco a excelência técnica através de código limpo (Clean Code), tipagem estática rigorosa (TypeScript) e animações fluidas.
+Sou dev fullstack atualmente atuando em projetos mobile com comunicação em API's, procurando construir APP's rapidos seguros e fluidos garantindo aos clientes um produto estável e confiável.
 
 ### Tecnologias
 
@@ -18,6 +18,7 @@ Tenho dedicado minha trajetória recente à construção de interfaces móveis e
 
 ---
 **Contato:** erikvilaralves@gmail.com
+
 
 
 
