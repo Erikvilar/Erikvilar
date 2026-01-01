@@ -1,4 +1,4 @@
-# [Erik Vilar]
+# Erik Vilar
 
 **Analista de Sistemas** especializado em **Desenvolvimento Mobile**.
 
@@ -18,6 +18,7 @@ Tenho dedicado minha trajetória recente à construção de interfaces móveis e
 
 ---
 📫 **Contato:** [erikvilaralves@gmail.com]
+
 
 
 
