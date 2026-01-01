@@ -17,7 +17,8 @@ Tenho dedicado minha trajetória recente à construção de interfaces móveis e
 * **Skills:** Typescript, SOLID, Perfomance Analyst, UI Implementation.
 
 ---
-📫 **Contato:** [erikvilaralves@gmail.com]
+**Contato:** erikvilaralves@gmail.com
+
 
 
 
